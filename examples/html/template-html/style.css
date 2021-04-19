@@ -1,0 +1,12 @@
+h1 {
+    color: green;
+}
+
+a {
+    transition: color 1s;
+}
+
+a:hover {
+    color: red;
+    text-decoration-color: none;
+}
